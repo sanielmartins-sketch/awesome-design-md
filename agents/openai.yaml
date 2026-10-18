@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome DESIGN.md"
+  short_description: "Referências visuais para sites e painéis"
+  default_prompt: "Use $awesome-design-md para escolher uma referência visual e adaptar o design ao meu projeto."
